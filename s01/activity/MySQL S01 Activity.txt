@@ -1,0 +1,22 @@
+// MySQL S01 Activity
+
+
+//1. List the books Authored by Marjorie Green.
+//Answer:
+BU1032 The Busy Excecutive's Database Guide
+BU2075 You Can Combat Computer Stress!
+
+//2. List the books Authored by Michael O'Leary.
+//Answer:
+BU1111 Cooking with Computers
+TC7777 
+
+//3. Write the author/s of "The Busy Executive’s Database Guide".
+//Answer:
+
+
+//4. Identify the publisher of "But Is It User Friendly?".
+//Answer:
+
+//5. List the books published by Algodata Infosystems.
+//Answer:
