@@ -9,7 +9,7 @@ SELECT album_title, song_name, length FROM albums
 
 SELECT * FROM artists
 	JOIN albums ON artists.id = albums.artist_id
-	WHERE name LIKE "%a%";
+	WHERE album_title LIKE "%a%";
 
 SELECT * FROM albums ORDER BY album_title DESC LIMIT 4;
 
